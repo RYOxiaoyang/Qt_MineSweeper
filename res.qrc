@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>emoji.bmp</file>
+        <file>time.bmp</file>
+        <file>title.bmp</file>
+        <file>item2.bmp</file>
+    </qresource>
+</RCC>
